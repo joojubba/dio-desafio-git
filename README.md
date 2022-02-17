@@ -3,11 +3,9 @@
 
 
 
+______________________
 
 
-
-
-![GitHub](C:\Users\Joanna\Desktop\Joanna\01. AULAS\DIO\GitHub.jpg)
 
 
 
@@ -18,6 +16,14 @@
 
 
 
+
+___________________________________
+
+
+
+
+
+##  💻 Introdução Básica ao Git/GitHub
 
 
 
@@ -50,13 +56,13 @@ ________________________________________________________
 
 
 
-##Conteúdo utilizado: 
+##### 💡 Conteúdo utilizado:
 
 [O que é o GitHub? Veja para que serve a 'rede social de programadores'](https://www.techtudo.com.br/listas/2021/05/o-que-e-o-github-veja-para-que-serve-a-rede-social-de-programadores.ghtml)
 
 
 
-##Links úteis:
+##### 💡  Links úteis:
 
 [Sintaxe Básica Markdown](hhttps://www.markdownguide.org/basic-syntax/)
 
