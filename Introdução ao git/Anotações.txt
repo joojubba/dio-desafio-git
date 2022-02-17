@@ -1,0 +1,3 @@
+git - 2005 
+é um sistema (software) de versionamento de codigo distribuido / ajuda a criar e monitorar
+diversas versoes do seu codigo
