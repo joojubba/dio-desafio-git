@@ -13,6 +13,10 @@
 
 
 
+![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+
+
 
 
 
@@ -32,7 +36,7 @@ O GitHub é usado principalmente para armazenar repositórios, que são as "loca
 
 
 
-**Como usar o GitHub?**
+- **Como usar o GitHub?**
 
 O primeiro passo para usar o GitHub é instalar o Git — em alguns casos, é possível que ele já esteja instalado. O procedimento para baixar e instalar o Git no PC é comum, como um instalador padrão. Uma vez instalado, o usuário deve criar uma conta no GitHub. Para isso, é necessário um cadastro com nome de usuário, e-mail e senha.
 
@@ -49,3 +53,10 @@ ________________________________________________________
 ##Conteúdo utilizado: 
 
 [O que é o GitHub? Veja para que serve a 'rede social de programadores'](https://www.techtudo.com.br/listas/2021/05/o-que-e-o-github-veja-para-que-serve-a-rede-social-de-programadores.ghtml)
+
+
+
+##Links úteis:
+
+[Sintaxe Básica Markdown](hhttps://www.markdownguide.org/basic-syntax/)
+
