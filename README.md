@@ -64,4 +64,5 @@ ________________________________________________________
 
 ##### 💡  Links úteis:
 
-[Sintaxe Básica Markdown](hhttps://www.markdownguide.org/basic-syntax/)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
